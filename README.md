@@ -1,6 +1,6 @@
 # Cívica 7.º · Guía web de estudio
 
-Guías interactivas para estudiar Cívica de sétimo año. La página principal resume el I Taller de Cívica, III trimestre 2026, sobre gestión del riesgo. La carpeta `ultimo-examen-transito/` agrega el repaso de los talleres 6 y 7 del libro, páginas 90–97, sobre la Ley de Tránsito.
+Guías interactivas para estudiar Cívica de sétimo año. La página principal resume el I Taller de Cívica, III trimestre 2026, sobre gestión del riesgo. La carpeta `ultimo-examen-transito/` reúne el Taller 5 (páginas 138–141), sobre comités y gestión de emergencias, y los talleres 6 y 7 (páginas 90–97), sobre la Ley de Tránsito. El Taller 8 permanece fuera de esta guía de examen.
 
 ## Publicación local
 
